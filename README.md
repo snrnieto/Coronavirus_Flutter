@@ -6,5 +6,15 @@ Aplicación hecha en Flutter, obteniendo los datos de la Api de Coronavirus
 
 This project is a starting point for a Flutter application.
 
-# Imágenes
-![Pantalla Inicial](pantalla_inicial.jpg "Pantalla Principal") ![Pantalla Paises](pantalla_paises.jpg "Pantalla Paises")
+#### Flutter App Screenshots
+
+<table>
+  <tr>
+    <td>Pantalla Principal</td>
+     <td>Pantalla Paises</td>
+  </tr>
+  <tr>
+    <td><img src="pantalla_inicial.jpg" width=270 height=480></td>
+    <td><img src="pantalla_paises.jpg" width=270 height=480></td>
+  </tr>
+ </table>
