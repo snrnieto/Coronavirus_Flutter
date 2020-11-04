@@ -18,3 +18,8 @@ This project is a starting point for a Flutter application.
     <td><img src="pantalla_paises.jpg" width=270 height=480></td>
   </tr>
  </table>
+
+Otros proyectos
+Generador de HTML drag and drop
+
+<a href="https://github.com/snrnieto/generador-html">https://github.com/snrnieto/generador-html</a>
